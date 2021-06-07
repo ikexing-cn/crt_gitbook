@@ -53,8 +53,6 @@ import crafttweaker.block.IBlock;
 import crafttweaker.world.IBlockPos;
 import crafttweaker.player.IPlayer;
 import crafttweaker.data.IData;
-import crafttweaker.potions.IPotion;
-import crafttweaker.potions.IPotionEffect;
 
 import mods.ctutils.utils.Math;
 
